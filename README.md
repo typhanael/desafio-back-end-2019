@@ -40,7 +40,7 @@ _*********_
 - Recomendamos você utilizar Git (2 opções):
     1) Criar um repositório próprio e público (Pode ser no github, gitlab, Bit Bucket ou qualquer outra plataforma de hospedagem de código-fonte) e nos enviar o link por e-mail();
     
-    2) Dar um fork neste repositório com seu projeto
+    2) Dar um Pull Request neste repositório com seu projeto
 - Enviar o arquivo da solução por e-mail ()
 
 ---
