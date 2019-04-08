@@ -42,7 +42,7 @@ _*********_
     
     2) Dar um Pull Request neste repositório com seu projeto
 - Por e-mail:
-    1) Enviar o **arquivo com a função para o e-mail solucao@qmagico.com.br
+    1) Enviar o arquivo **.py** ou **.js** com a função para o e-mail solucao@qmagico.com.br
 
 ---
 
