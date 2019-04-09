@@ -1,6 +1,6 @@
 # Desafio Back-end Qmágico
 
-A proposta do desafio é analizar a maneira como você pensa e como você implementa a solução do problema que vamos te passar.
+A proposta do desafio é analisar a maneira como você pensa e como você implementa a solução do problema que vamos te passar.
 
 O desafio é: Desenvolva uma função em Python ou Javascript que receba um número *n* como parâmetro e imprima uma pirâmide de underscores e asteriscos de altura *n* no console. Por exemplo:
 
@@ -38,7 +38,7 @@ _*********_
 
 #### Envio do desafio:
 - Pelo Git (Recomendamos) - 2 opções:
-    1) Criar um repositório próprio e público (Pode ser no github, gitlab, Bit Bucket ou qualquer outra plataforma de hospedagem de código-fonte) com a **solução** e nos enviar o link por e-mail(solucao@qmagico.com.br);
+    1) Criar um repositório próprio e público (pode ser no github, gitlab, Bit Bucket ou qualquer outra plataforma de hospedagem de código-fonte) com a **solução** e nos enviar o link por e-mail(solucao@qmagico.com.br);
     
     2) Dar um Pull Request neste repositório com seu projeto
 - Por e-mail:
